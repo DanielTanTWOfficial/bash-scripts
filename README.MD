@@ -1,1 +1,1 @@
-# Bandit Scripts
+# Bash Scripts
