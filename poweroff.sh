@@ -1,0 +1,3 @@
+# Poweroff script
+
+echo 'poweroff'

@@ -1,0 +1,3 @@
+# Reboot script
+
+echo 'reboot'
